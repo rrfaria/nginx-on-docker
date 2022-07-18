@@ -5,9 +5,9 @@ obs: as apps estão rodando em portas separadas
 - na portal 8080 uma app X com tecnologia diferente da segunda app
 - na portal 3000 uma app Y com React
 
-As duas apps serão expostas por padrao:
+As duas apps serão expostas por padrao:<br>
 ```http://meusubdominio.meudominio.local```
-Onde a segunda app está disponivel em
+Onde a segunda app está disponivel em<br>
 ```http://meusubdominio.meudominio.local/v2```
 
 ## Pré requisito
@@ -51,7 +51,7 @@ Caso queria dois subdominios diferentes basta usar o nginx.multisubdomain.conf
 
 então o resultado será
 
-As duas apps serão expostas por padrao:
+As duas apps serão expostas por padrao:<br>
 ```http://meusubdominio.meudominio.local```
-Onde a segunda app está disponivel em
+Onde a segunda app está disponivel em<br>
 ```http://meusubdominio1.meudominio.local```
