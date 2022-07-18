@@ -7,6 +7,7 @@ obs: as apps estão rodando em portas separadas
 
 As duas apps serão expostas por padrao:<br>
 ```http://meusubdominio.meudominio.local```
+
 Onde a segunda app está disponivel em<br>
 ```http://meusubdominio.meudominio.local/v2```
 
@@ -53,5 +54,6 @@ então o resultado será
 
 As duas apps serão expostas por padrao:<br>
 ```http://meusubdominio.meudominio.local```
+
 Onde a segunda app está disponivel em<br>
 ```http://meusubdominio1.meudominio.local```
